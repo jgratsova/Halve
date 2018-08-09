@@ -1,7 +1,8 @@
 # Site
 title: Data Portfolio
 description: Julia Gratsova
-url: https://jgratsova.github.io                                      # Site logo
+url: https://jgratsova.github.io
+logo: images/logo.png              # Site logo
 locale: en_UK
 
 # Left Block Images
